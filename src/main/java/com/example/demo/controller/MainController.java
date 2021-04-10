@@ -10,6 +10,6 @@ public class MainController
     @GetMapping("/hello")
     public String hello(String userName){
 
-        return "privet "+ userName;
+        return "JDdgjdrgnj "+ userName;
     }
 }
